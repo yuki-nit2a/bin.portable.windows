@@ -91,6 +91,7 @@ Configurations of useful windows portable applications
 
 * SQLiteDatabaseBrowser
 * QCacheGrind
+* A5SQL
 
 ### Mouse
 
@@ -146,6 +147,13 @@ Configurations of useful windows portable applications
 ### Print
 
 * Aprint
+
+### Remote Control
+* TeamViewer
+
+### Color Calibration
+* DisplayCAL
+* Argyll CMS
 
 ## Autorun at startup
 
